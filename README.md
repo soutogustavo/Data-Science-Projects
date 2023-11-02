@@ -1,2 +1,2 @@
-# MyDataScience
-Random Data Science Stuff
+# Data-Science-Projects
+...
